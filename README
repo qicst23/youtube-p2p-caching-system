@@ -1,0 +1,33 @@
+Full name:  _____Yayang Tian_________
+SEAS login: _____yaytian_________
+
+Which features did you implement? 
+  (list features, or write 'Entire assignment')
+Entire Assignment
+
+Did you complete any extra-credit tasks? If so, which ones?
+  (list extra-credit tasks)
+
+3.1 all       second param: maxSize   third param: maxTime
+3.2 all   
+3.3 partially
+
+Any special instructions for building and running your solution?
+  (include detailed instructions, or write 'None')
+
+e.g.
+java -cp youtube.jar:target/WE:target/WEB-INF/lib/* edu/upenn/cis455/youtube/P2PCache 9001 158.130.213.1 9001 10001 /Users/Alantyy/Documents/database 10 1000
+
+
+Did you personally write _all_ the code you are submitting
+(other than code from the course web page)?
+  [~] Yes
+  [ ] No
+
+Did you copy any code from the Internet, or from classmates?
+  [ ] Yes
+  [~] No
+
+Did you collaborate with anyone on this assignment?
+  [ ] Yes
+  [~] No
