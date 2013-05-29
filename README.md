@@ -11,5 +11,6 @@ A peer-to-peer decentralized caching system storing RESTful YouTube search resul
 2. Built a web services based web application that queries and receives REST(JSON)/SOAP messages between client and caching system.
 
 ## _Instruction_
-1. Main source files are located in `src/edu/upenn/cis455`
+1. Main source files are located in `src/edu/upenn/cis455`.
 2. In `/storage` folder, `DatabaseUtil.java` is for Berkeley DB DAO functions, `P2PNode.java` store information about PastryNode and `YouTubeResult.java` for YouTubeReult.
+3. 
