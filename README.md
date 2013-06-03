@@ -1,7 +1,7 @@
 Youtube P2P Caching System
 ==========================
 
-A peer-to-peer decentralized caching system storing RESTful YouTube search results in FreePastry-based distributed hash table (DHT).
+A peer-to-peer decentralized caching system storing RESTful YouTube search results in FreePastry-based distributed hash table (DHT). Java.
 
 ## _Skill_
     Java, Servlet, FreePastry Distributed Hash Table, Web Services(REST, SOAP), Bekeley DB
