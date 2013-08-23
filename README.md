@@ -22,8 +22,6 @@ To launch P2P ring, you need to use:
         [max maximum storage size]?
         [content expiration time]?
 
-        For example: 
-        java -cp youtube.jar:target/WE:target/WEB-INF/lib/* edu/upenn/cis455/youtube/P2PCache 9001 158.130.213.1 9001 10001 /Users/Alantyy/Documents/database 10 1000
         For example:
         java -cp youtube.jar:target/WEB-INF/lib/* edu/upenn/cis455/youtube/P2PCache 9001 10.12.231.124 9001 10001 /Users/Alantyy/Desktop/database 10 1000
  
